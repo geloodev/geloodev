@@ -1,6 +1,10 @@
 ### Hi there, I am Ângelo Gabriel!
 ### Oiee, eu sou o Ângelo!
-
+ <div>
+  <a href="https://github.com/platannox">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=platannox&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=platannox&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <!--
 **platannox/platannox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
