@@ -5,9 +5,9 @@
 - 🏫 Estudando no IFSP
 
  <div>
-  <a href="https://github.com/platannox">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=platannox&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=platannox&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/geloodev">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=geloodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geloodev&layout=compact&langs_count=7&theme=tokyonight"/>
    <img align="right" height="150em" src="https://i.pinimg.com/originals/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.gif">
  </div>
  <div>
@@ -18,7 +18,7 @@
  
   ##
  
- ### Estou estudando | I'm studying:
+ ### 📖 Estou estudando | I'm studying:
  <div>
   <img align="center" height="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
