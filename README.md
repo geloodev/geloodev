@@ -19,6 +19,7 @@
  
  ### 📖 Estou estudando | I'm studying:
  <div>
+  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
   <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
