@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I am Ângelo Gabriel!
+### Oiee, eu sou o Ângelo!
 
 <!--
 **platannox/platannox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
