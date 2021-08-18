@@ -16,8 +16,13 @@
   <a href="https://www.instagram.com/platannox/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
  
- ## Estou estudando | I'm studying:
- <div style="display: inline_block"><br>
-  <img align="center" height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  ##
+ 
+ ### Estou estudando | I'm studying:
+ <div>
+  <img align="center" height="50" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" height="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
+  <img align="center" height="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
  </div>
+ 
  
