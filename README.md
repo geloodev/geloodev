@@ -17,7 +17,7 @@
  </div>
  
  
- ### 📖 Estou estudando | I'm studying:
+ ### 📖 Estou estudando | I'm learning:
  <div>
   <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
