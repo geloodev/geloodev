@@ -1,4 +1,4 @@
-### Oiee, eu sou o Ângelo! | Hi there, I am Ângelo Gabriel!
+### Oi, eu sou o Ângelo Gabriel! | Hi there, I am Ângelo Gabriel!
 
 - 🌱 Pronomes: Ele/Dele |  He/Him
 - 🧑🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas | System and Development Analisys
