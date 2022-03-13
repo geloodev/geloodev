@@ -19,10 +19,9 @@
  
  ### 📖 Estou aprendendo | I'm learning:
  <div>
-  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
+  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
   <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
-  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
  </div>
  
  
