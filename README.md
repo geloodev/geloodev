@@ -21,7 +21,10 @@
   <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg">
   <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
   <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
-  <img align="center" height="150em" src="https://i.pinimg.com/originals/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.gif">
+ </div>
+ 
+ <div>
+   <img align="center" height="150em" src="https://i.pinimg.com/originals/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.gif">
  </div>
  
  
