@@ -17,7 +17,7 @@
  
  ### 📖 Estou aprendendo | I'm learning:
  <div>
-  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original-wordmark.svg">
+  <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
   <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
  </div>
