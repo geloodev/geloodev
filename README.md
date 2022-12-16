@@ -2,7 +2,7 @@
 
 - 🌱He/Him
 - 🌎 Brazilian
-- 🎓 Technologist in Systems Analysis and Development at IFSP
+- 🎓 Technologist in Systems Analysis and Development at IFSP - 4th Semester
 - 💼 Intern at Alphatek Engenharia
 
  <div>
