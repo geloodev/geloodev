@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=181926&height=160&section=header&text=Ângelo%20Holandini%&desc=welcome%20to%20my%20github!&fontSize=30&fontColor=C6A0F6&animation=twinkling&descAlignY=70" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=181926&height=160&section=header&text=Ângelo%20Holandini%&desc=welcome%20to%20my%20github!&fontSize=30&fontColor=C6A0F6&animation=scaleIn&descAlignY=70" />
 
 
 - 🌱He/Him
