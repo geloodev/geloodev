@@ -1,4 +1,4 @@
-### Oi, eu sou o Ângelo Holandini! | Hi there, I am Ângelo Holandini!
+### Hi there, I am Ângelo Holandini!
 
 - 🌱 He/Him
 - 🧑🏻‍🎓 Technologist in Systems Analysis and Development at IFSP
@@ -15,7 +15,7 @@
  </div>
  
  
- ### 📖 Estou aprendendo | I'm learning:
+ ### 📖 I'm learning:
  <div>
   <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
