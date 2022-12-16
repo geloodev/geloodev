@@ -1,8 +1,8 @@
 ### Oi, eu sou o Ângelo Holandini! | Hi there, I am Ângelo Holandini!
 
-- 🌱 Ele/Dele |  He/Him
-- 🧑🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas | System and Development Analisys
-- 🏫 IFSP
+- 🌱 He/Him
+- 🧑🏻‍🎓 Technologist in Systems Analysis and Development at IFSP
+- 💼 Intert at Alphatek Engenharia
 
  <div>
   <a href="https://github.com/geloodev">
