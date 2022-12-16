@@ -2,7 +2,7 @@
 
 - 🌱 He/Him
 - 🧑🏻‍🎓 Technologist in Systems Analysis and Development at IFSP
-- 💼 Intert at Alphatek Engenharia
+- 💼 Intern at Alphatek Engenharia
 
  <div>
   <a href="https://github.com/geloodev">
