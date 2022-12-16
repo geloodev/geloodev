@@ -1,4 +1,5 @@
-### Hi there, I am Ângelo Holandini!
+<img width=100% src="https://capsule-render.vercel.app/api?type=transparent&color=C6A0F6&height=160&section=header&text=Ângelo%20Holandini&fontSize=30&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" />
+
 
 - 🌱He/Him
 - 🌎 Brazilian
