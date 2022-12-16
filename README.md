@@ -1,9 +1,9 @@
 ### Hi there, I am Ângelo Holandini!
 
-- 🌱 He/Him
-- 🧑🏻‍🎓 Technologist in Systems Analysis and Development at IFSP
+- 🌱He/Him
+- 🌎 Brazilian
+- 🎓 Technologist in Systems Analysis and Development at IFSP
 - 💼 Intern at Alphatek Engenharia
-- 🇧🇷 Brazilian
 
  <div>
   <a href="https://github.com/geloodev">
