@@ -18,12 +18,12 @@
  <a href = "mailto:angeloholandini11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
  
- <h3>I'm studying:</h3>
-<div>
- <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
- <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
- <img align="center" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
-</div>
+ <h3 align="center">I'm studying:</h3>
+ <p align="center">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/php/C6A0F6"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/html5/C6A0F6"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/css3/C6A0F6"/>
+ </p>
 
  
  
