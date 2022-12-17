@@ -7,6 +7,8 @@
 - 💼 Intern at Alphatek Engenharia <br>
 </div>
 
+<br>
+
 <div align="center">
  <a href="https://github.com/geloodev">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=geloodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
