@@ -1,11 +1,18 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=181926&height=160&section=header&text=Ângelo%20Holandini%&desc=welcome%20to%20my%20github!&fontSize=30&fontColor=C6A0F6&animation=blinking&descAlignY=70" />
-
-<div>
-- 🌱He/Him <br>
-- 🌎 Brazilian <br>
-- 🎓 Technologist in Systems Analysis and Development at IFSP - 4th Semester <br>
-- 💼 Intern at Alphatek Engenharia <br>
-</div>
+ <table>
+  <tr>
+   <td>
+    <div>
+    - 🌱He/Him <br>
+    - 🌎 Brazilian <br>
+    - 🎓 Technologist in Systems Analysis and Development at IFSP - 4th Semester <br>
+    - 💼 Intern at Alphatek Engenharia <br>
+    </div>
+   </td>
+   <td>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=181926&height=160&section=header&text=Ângelo%20Holandini%&desc=welcome%20to%20my%20github!&fontSize=30&fontColor=C6A0F6&animation=blinking&descAlignY=70" />
+   </td>
+  </tr>
+ </table>
 
 <br>
 
