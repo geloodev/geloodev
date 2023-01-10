@@ -4,8 +4,9 @@
     <h3>About Me</h3>
     - 🌱He/Him <br>
     - 🌎 Brazilian <br>
-    - 🎓 Technologist in Systems Analysis and Development at IFSP - 4th Semester <br>
     - 💼 Intern at Alphatek Engenharia <br>
+    - 🎓 Technologist in Systems Analysis and Development at IFSP - 4th Semester <br>
+    - ⚙️ Knowledge at SCRUM Agile Methodology <br>
 </div>
 
 <br>
