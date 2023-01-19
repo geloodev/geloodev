@@ -25,6 +25,8 @@
  <h3 align="center">I'm studying:</h3>
  <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/php/C6A0F6"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/laravel/C6A0F6"/>
+    <br/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/C6A0F6"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/html5/C6A0F6"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/css3/C6A0F6"/>
