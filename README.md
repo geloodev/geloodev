@@ -3,17 +3,15 @@
 <div align="center">
     <h3>About Me</h3>
     🌱He/Him <br>
-    🌎 Brazilian <br>
+    🇧🇷 Brazilian <br>
     💼 Intern at Alphatek Engenharia <br>
     🎓 Technologist in Systems Analysis and Development at IFSP - 4th Semester <br>
-    ⚙️ Knowledge at SCRUM Agile Methodology <br>
 </div>
 
-<br>
-
 <div align="center">
-     <a href="https://www.linkedin.com/in/angelo-holandini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-     <a href = "mailto:angeloholandini11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <h3>Contacts</h3>    
+    <a href="https://www.linkedin.com/in/angelo-holandini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:angeloholandini11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <br>
