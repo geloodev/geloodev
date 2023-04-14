@@ -23,34 +23,12 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=geloodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geloodev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
- 
- <div>
-    <h3 align="center">I'm studying:</h3>
- </div>
- <!--
- <p align="center">
-     <table align="center">
-        <tr>
-            <td>At Work</td>
-            <td>At College</td>
-            <td>At Home</td>
-        </tr>
-        <tr>
-            <td>
-                <img height="40" width="40" src="https://cdn.simpleicons.org/php/C6A0F6"/>
-                <img height="40" width="40" src="https://cdn.simpleicons.org/laravel/C6A0F6"/>
-            </td>
-            <td>
-            </td>
-            <td>
-                <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/C6A0F6"/>
-                <img height="40" width="40" src="https://cdn.simpleicons.org/html5/C6A0F6"/>
-                <img height="40" width="40" src="https://cdn.simpleicons.org/css3/C6A0F6"/>
-            </td>
-        </tr>
-    </table>
- </p>
--->
+
+<div align="center">
+    <h3>I'm studying:</h3>
+    <img src="images/icon-java.svg">
+</div>
+
 
 
  
