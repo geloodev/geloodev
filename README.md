@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-    <h3>I'm studying</h3>
+    <h3>I'm Studying</h3>
     <img src="images/icon-java.svg">
     <img height="50" width="50" src="https://cdn.simpleicons.org/spring/C6A0F6"/>
 </div>
