@@ -20,9 +20,9 @@
 
 <div align="center">
     <h3>Languages and Technologies</h3>
+    <img src="images/icon-java.svg">
     <img height="50" width="50" src="https://cdn.simpleicons.org/c/C6A0F6"/>
     <img height="50" width="50" src="https://cdn.simpleicons.org/csharp/C6A0F6"/>
-    <img src="images/icon-java.svg">
     <img height="50" width="50" src="https://cdn.simpleicons.org/mysql/C6A0F6"/>
     <br>
     <img height="50" width="50" src="https://cdn.simpleicons.org/linux/C6A0F6"/>
