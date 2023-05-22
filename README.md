@@ -20,6 +20,7 @@
 
 <div align="center">
     <h3>Languages and Technologies</h3>
+    <!--
     <img src="images/icon-java.svg">
     <img height="50" width="50" src="https://cdn.simpleicons.org/c/C6A0F6"/>
     <img height="50" width="50" src="https://cdn.simpleicons.org/csharp/C6A0F6"/>
@@ -28,14 +29,25 @@
     <img height="50" width="50" src="https://cdn.simpleicons.org/linux/C6A0F6"/>
     <img height="50" width="50" src="https://cdn.simpleicons.org/git/C6A0F6"/>
     <img height="50" width="50" src="https://cdn.simpleicons.org/visualstudiocode/C6A0F6"/>
-    
-
+    -->
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,c,cs,mysql" />
+    </a>
+    <br>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=linux,git,vscode" />
+    </a>
 </div>
 
 <div align="center">
     <h3>I'm Studying</h3>
+    <!--
     <img src="images/icon-java.svg">
     <img height="50" width="50" src="https://cdn.simpleicons.org/spring/C6A0F6"/>
+    -->
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,spring" />
+    </a>
 </div>
 
 <div align="center">
