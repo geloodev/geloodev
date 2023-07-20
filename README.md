@@ -46,7 +46,7 @@
     <img height="50" width="50" src="https://cdn.simpleicons.org/spring/C6A0F6"/>
     -->
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring" />
+        <img src="https://skillicons.dev/icons?i=spring,postgres,docker" />
     </a>
 </div>
 
