@@ -46,14 +46,16 @@
     <img height="50" width="50" src="https://cdn.simpleicons.org/spring/C6A0F6"/>
     -->
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=spring,postgres,docker,lua" />
+        <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,lua" />
     </a>
 </div>
 
 <div align="center">
     <h3>Github Stats</h3>
+    <!--
     <a href="https://github.com/geloodev">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=geloodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    -->
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geloodev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
