@@ -6,7 +6,6 @@
     🇧🇷 Brazilian <br>
     💼 Systems Developer at Alphatek Engenharia <br>
     🎓 Technologist in Systems Analysis and Development at IFSP - 5th Semester <br>
-    ⌛ 2 years of studying and 10 months of working<br>
     ⚙️ Knowledge in Clean Code, Design Patterns, SOLID and Scrum Agile Methodology <br>
 </div>
 
