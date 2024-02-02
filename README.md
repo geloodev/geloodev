@@ -2,7 +2,7 @@
     
 <div>
     <h3>About Me</h3>
-    👴🏻 21 years old
+    👴🏻 21 years old <br>
     🌱 He/Him <br>
     🇧🇷 Brazilian <br>
     💼 Developer at Sottelli <br>
