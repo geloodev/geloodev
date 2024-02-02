@@ -2,11 +2,11 @@
     
 <div>
     <h3>About Me</h3>
-    👴🏻 20 years old
+    👴🏻 21 years old
     🌱 He/Him <br>
     🇧🇷 Brazilian <br>
-    💼 Systems Developer at Alphatek Engenharia <br>
-    🎓 Technologist in Systems Analysis and Development at IFSP - 4th Semester <br>
+    💼 Developer at Sottelli <br>
+    🎓 Technologist in Systems Analysis and Development at IFSP - 5th Semester <br>
     ⚙️ Knowledge in Clean Code, Design Patterns, SOLID and Scrum Agile Methodology <br>
 </div>
 
