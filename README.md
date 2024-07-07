@@ -4,10 +4,9 @@
     <h3>About Me</h3>
     👴🏻 21 years old <br>
     🌱 He/Him <br>
-    🇧🇷 Brazilian <br>
-    💼 Developer at Sottelli <br>
+    🇧🇷  Brazilian <br>
+    💼 Developer at Linear Sistemas Matemáticos <br>
     🎓 Technologist in Systems Analysis and Development at IFSP - 5th Semester <br>
-    ⚙️ Knowledge in Clean Code, Design Patterns, SOLID and Scrum Agile Methodology <br>
 </div>
 
 <div>
@@ -47,12 +46,14 @@
     <img height="50" width="50" src="https://cdn.simpleicons.org/spring/C6A0F6"/>
     -->
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker" />
+        <img src="https://skillicons.dev/icons?i=spring,lua,docker" />
     </a>
     <br>
+    <!--
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js" />
     </a>
+    -->
 </div>
 
 <div>
