@@ -5,8 +5,8 @@
     👴🏻 21 years old <br>
     🌱 He/Him <br>
     🇧🇷  Brazilian <br>
-    💼 Developer at Linear Sistemas Matemáticos <br>
-    🎓 Technologist in Systems Analysis and Development at IFSP - 5th Semester <br>
+    💼 Developer Backend/Fullstack <br>
+    🎓 Technologist in Systems Analysis and Development at IFSP - 6th Semester <br>
 </div>
 
 <div>
