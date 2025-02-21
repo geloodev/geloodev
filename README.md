@@ -2,10 +2,10 @@
     
 <div>
     <h3>About Me</h3>
-    👴🏻 21 years old <br>
+    👴🏻 22 years old <br>
     🌱 He/Him <br>
     🇧🇷  Brazilian <br>
-    💼 Developer Backend/Fullstack <br>
+    💼 Software Engineer at Procter & Gamble <br>
     🎓 Technologist in Systems Analysis and Development at IFSP - 6th Semester <br>
 </div>
 
