@@ -6,7 +6,7 @@
     🌱 He/Him <br>
     🇧🇷  Brazilian <br>
     💼 Software Engineer at Procter & Gamble <br>
-    🎓 Technologist in Systems Analysis and Development at IFSP - 6th Semester <br>
+    🎓 Technologist in Systems Analysis and Development at IFSP<br>
 </div>
 
 <div>
@@ -17,10 +17,9 @@
         📄 <a href="https://drive.google.com/file/d/1QN0_Kb1DNjiG8X1Ln1t5UgOWSbdTFtw2/view?usp=drive_link">My Resume (PT-BR)</a>
         📄 <a href="https://drive.google.com/file/d/1nEU5eDqzXF9zL6hB8Z1CzR9PZ766q9VH/view?usp=drive_link">My Resume (ENG)</a>
 </div>
-
+<!--
 <div>
     <h3>Programming Languages and Technologies</h3>
-    <!--
     <img src="images/icon-java.svg">
     <img height="50" width="50" src="https://cdn.simpleicons.org/c/C6A0F6"/>
     <img height="50" width="50" src="https://cdn.simpleicons.org/csharp/C6A0F6"/>
@@ -29,7 +28,6 @@
     <img height="50" width="50" src="https://cdn.simpleicons.org/linux/C6A0F6"/>
     <img height="50" width="50" src="https://cdn.simpleicons.org/git/C6A0F6"/>
     <img height="50" width="50" src="https://cdn.simpleicons.org/visualstudiocode/C6A0F6"/>
-    -->
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,c,cs,mysql" />
     </a>
@@ -38,24 +36,19 @@
         <img src="https://skillicons.dev/icons?i=linux,git,vscode" />
     </a>
 </div>
-
 <div>
     <h3>I'm Studying</h3>
-    <!--
     <img src="images/icon-java.svg">
     <img height="50" width="50" src="https://cdn.simpleicons.org/spring/C6A0F6"/>
-    -->
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=spring,lua,docker" />
     </a>
     <br>
-    <!--
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js" />
     </a>
-    -->
 </div>
-
+-->
 <div>
     <h3>Github Stats</h3>
     <!--
